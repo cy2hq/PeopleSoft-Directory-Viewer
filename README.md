@@ -11,7 +11,7 @@ The functionality consists of:
 2.  Viewer component where end users can manage files and directories on
     the PeopleSoft Servers.
 
-**Common uses: **
+**Common uses:**
 
 The functionality is commonly used to:
 
@@ -35,9 +35,9 @@ The functionality can safely be used in a production environment if and
 when you have clearly defined which end users can perform which file
 transactions in which directories.
 
-**Documents: **
+**Documents:**
 
-1. [Installation] (installation_CY2_DIRECTORY_VIEWER.pdf)
-2. [Functional design and user manual] (FD_CY2_DIRECTORY_VIEWER.pdf
-3. [Technical design] (TD_CY2_DIRECTORY_VIEWER.pdf)
+1.  [Installation] (installation_CY2_DIRECTORY_VIEWER.pdf)
+2.  [Functional design and user manual] (FD_CY2_DIRECTORY_VIEWER.pdf
+3.  [Technical design] (TD_CY2_DIRECTORY_VIEWER.pdf)
 
