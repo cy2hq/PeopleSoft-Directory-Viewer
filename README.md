@@ -37,7 +37,7 @@ transactions in which directories.
 
 **Documents:**
 
-1.  [Installation] (installation_CY2_DIRECTORY_VIEWER.pdf)
-2.  [Functional design and user manual] (FD_CY2_DIRECTORY_VIEWER.pdf
-3.  [Technical design] (TD_CY2_DIRECTORY_VIEWER.pdf)
+1.  (Installation) [installation_CY2_DIRECTORY_VIEWER.pdf]
+2.  (Functional design and user manual) [FD_CY2_DIRECTORY_VIEWER.pdf]
+3.  (Technical design) [TD_CY2_DIRECTORY_VIEWER.pdf]
 
