@@ -35,6 +35,12 @@ The functionality can safely be used in a production environment if and
 when you have clearly defined which end users can perform which file
 transactions in which directories.
 
+**Overview Video:**
+
+Check out the functionaliy via:
+
+https://youtu.be/pnQKObe-csU
+
 **Documents:**
 
 1.  [Installation](installation_CY2_DIRECTORY_VIEWER.pdf)
