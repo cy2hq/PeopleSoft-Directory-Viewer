@@ -14,6 +14,7 @@ end users.
 
 
 **Common uses:**
+
 The functionality is commonly used to: 
 1.	Allow developers access to log files on the application server and web server for debugging errors and viewing integration logs.
 
