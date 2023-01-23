@@ -36,7 +36,7 @@ transactions in which directories.
 
 **Overview Video:**
 
-Check out the functionaliy via:
+Check out the functionality of version 1 via:
 
 https://youtu.be/pnQKObe-csU
 
