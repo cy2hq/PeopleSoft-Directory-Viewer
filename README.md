@@ -2,7 +2,7 @@ The **PeopleSoft Directory Viewer** functionality delivers front-end
 functionality to manage files and directories on PeopleSoft servers for
 end users.
 
-The functionality consists of:
+**The functionality consists of:**
 
 1.	Installation component where administrators can define the installation options available for different directories on the PeopleSoft Servers for end users.
 
@@ -14,9 +14,6 @@ The functionality consists of:
 
 
 **Common uses:**
-
-The functionality is commonly used to:
-
 The functionality is commonly used to: 
 1.	Allow developers access to log files on the application server and web server for debugging errors and viewing integration logs.
 
