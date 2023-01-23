@@ -23,7 +23,9 @@ The functionality is commonly used to:
 3.	Allow admins easy access for server directories while using the front-end application.
 
 
-A word of caution: working with PeopleSoft servers means working with
+**A word of caution:**
+
+Working with PeopleSoft servers means working with
 the real server directories that are necessary to keep the PeopleSoft
 environment running. Any file transaction that end users can perform
 cannot be undone. **Delete is Delete!**
